@@ -32,7 +32,7 @@ I'm a 17-year-old solo game developer and pixel artist from the Philippines, mai
 | ![Hand Study](https://m.gjcdn.net/fireside-post-image/400/11014362-ll-zng2mp3v-v4.webp) | ![Bestfriend](https://m.gjcdn.net/fireside-post-image/400/8293017-skubid2u-v4.webp) | ![Vi](https://m.gjcdn.net/fireside-post-image/400/9736030-ll-uwnxkkae-v4.webp) |
 
 #### Witness my other works.
-- [Itch.io]( https://mahyellaw.itch.io )
-- [Facebook Page]( https://www.facebook.com/mahyellawStudios )
-- [GameJolt]( https://gamejolt.com/@mahyellaw )
-- [Instagram]( https://www.instagram.com/_.mahyellaw._/ )
+- [Itch.io **(mahyellaw)**]( https://mahyellaw.itch.io )
+- [Facebook Page **(Mahyellaw Studios)**]( https://www.facebook.com/mahyellawStudios )
+- [GameJolt **(mahyellaw)**]( https://gamejolt.com/@mahyellaw )
+- [Instagram **(\_.mahyellaw.\_)**]( https://www.instagram.com/_.mahyellaw._/ )
