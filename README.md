@@ -34,5 +34,6 @@ I'm a 17-year-old solo game developer and pixel artist from the Philippines, mai
 #### Witness my other works.
 - [Itch.io **(mahyellaw)**]( https://mahyellaw.itch.io )
 - [Facebook Page **(Mahyellaw Studios)**]( https://www.facebook.com/mahyellawStudios )
+- [Twitter **(@mahyellaw)**]( https://twitter.com/mahyellaw )
 - [GameJolt **(mahyellaw)**]( https://gamejolt.com/@mahyellaw )
 - [Instagram **(\_.mahyellaw.\_)**]( https://www.instagram.com/_.mahyellaw._/ )
