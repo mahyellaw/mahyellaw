@@ -21,9 +21,9 @@ I'm a 17-year-old solo game developer and pixel artist from the Philippines, mai
 
 ### Top 3 Games.
 
-| [Helikopterine]( https://mahyellaw.itch.io/helikopterine )  | [Coffee-48]( https://mahyellaw.itch.io/coffee-48 ) | [Extraterrestrial Meow](https://gamejolt.com/games/et_meow/638515) |
+| [One Stop, One Shop]( https://mahyellaw.itch.io/one-stop-one-shop )  | [Coffee-48]( https://mahyellaw.itch.io/coffee-48 ) | [Extraterrestrial Meow](https://gamejolt.com/games/et_meow/638515) |
 | ------------- | ------------- | ------------- |
-| ![Helikopterine](https://img.itch.zone/aW1nLzc1NDk1MjIucG5n/315x250%23c/Tz5UrI.png)  | ![Coffee-48](https://img.itch.zone/aW1nLzYyMTg5NjkucG5n/315x250%23c/%2BBdt7i.png)  | ![ET Meow](https://m.gjcdn.net/game-thumbnail/400/638515-ll-ygfv2kyp-v4.webp) |
+| ![OsOs](https://img.itch.zone/aW1nLzkxODI3MzQucG5n/315x250%23c/ft1cp7.png)  | ![Coffee-48](https://img.itch.zone/aW1nLzYyMTg5NjkucG5n/315x250%23c/%2BBdt7i.png)  | ![ET Meow](https://m.gjcdn.net/game-thumbnail/400/638515-ll-ygfv2kyp-v4.webp) |
 
 ### Top 3 Pixel Artworks.
 
