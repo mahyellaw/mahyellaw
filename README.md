@@ -34,8 +34,8 @@ I'm a 17-year-old solo game developer and pixel artist from the Philippines, mai
 ![C/C++](https://img.shields.io/badge/C/C++-known-A45700)
 
 ### 🎮 Featured Games.
-[<img alt="OsOs" width=315px height=250px src="https://img.itch.zone/aW1nLzkxODI3MzQucG5n/315x250%23c/ft1cp7.png" />](https://mahyellaw.itch.io/one-stop-one-shop)
-[<img alt="Coffee48" width=315px height=250px src="https://img.itch.zone/aW1nLzYyMTg5NjkucG5n/315x250%23c/%2BBdt7i.png" />](https://mahyellaw.itch.io/coffee-48)
+[<img alt="OsOs" width=220px height=175px src="https://img.itch.zone/aW1nLzkxODI3MzQucG5n/315x250%23c/ft1cp7.png" />](https://mahyellaw.itch.io/one-stop-one-shop)
+[<img alt="Coffee48" width=220px height=175px src="https://img.itch.zone/aW1nLzYyMTg5NjkucG5n/315x250%23c/%2BBdt7i.png" />](https://mahyellaw.itch.io/coffee-48)
 [<img alt="ET-Meow" width=350px height=175px src="https://m.gjcdn.net/game-thumbnail/400/638515-ll-ygfv2kyp-v4.webp" />](https://gamejolt.com/games/et_meow/638515)
 
 ### 🖼️ Featured Pixel Artworks.
