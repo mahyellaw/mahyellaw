@@ -1,5 +1,5 @@
 # Hey folks! 🧡
-<img alt="OrangeCondo" width="768" height="432" src="https://user-images.githubusercontent.com/67622030/187088645-99aada82-e0d9-4323-99f9-23bbc9374494.gif" />
+<img alt="OrangeCondo" width="576" height="324" src="https://user-images.githubusercontent.com/67622030/187088645-99aada82-e0d9-4323-99f9-23bbc9374494.gif" />
 
 I'm a 17-year-old solo game developer and pixel artist from the Philippines, mainly developing with the [Godot Engine]( https://godotengine.org ) and creating pixel art with [Aseprite]( https://www.aseprite.org ).
 
