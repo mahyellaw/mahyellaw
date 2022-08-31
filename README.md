@@ -5,21 +5,21 @@ I'm a 17-year-old solo game developer and pixel artist from the Philippines, mai
 
 ### ⚒️ Game Development | Art Technologies I use.
 
-<img alt="Godot Engine" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
+[<img alt="Godot Engine" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />]( https://godotengine.org )
 
-<img alt="GameMaker Studio 2" align=left height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" />
+[<img alt="GameMaker Studio 2" align=left height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" />]( https://gamemaker.io/en )
 
-<img alt="Pygame" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" />
+[<img alt="Pygame" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" />]( https://www.pygame.org )
 
-<img alt="Aseprite" align=left height="64" width="64" src="https://github.com/dominickjohn/aseprite-big-sur-icon/blob/main/AsepriteSurIcon.png?raw=true" />
+[<img alt="Aseprite" align=left height="64" width="64" src="https://github.com/dominickjohn/aseprite-big-sur-icon/blob/main/AsepriteSurIcon.png?raw=true" />]( https://www.aseprite.org )
 
-<img alt="Blender" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
+[<img alt="Blender" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />]( https://www.blender.org )
 
-<img alt="Audacity" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" />
+[<img alt="Audacity" align=left height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" />]( https://www.audacityteam.org/download/ )
 
-<img alt="BFXR" align=left height="64" width="64" src="https://s.getwinpcsoft.com/icons/png/128/3176/3176473.png" />
+[<img alt="BFXR" align=left height="64" width="64" src="https://s.getwinpcsoft.com/icons/png/128/3176/3176473.png" />]( https://www.bfxr.net )
 
-<img alt="Laigter" align=left height="64" width="64" src="https://appimage.github.io/database/Laigter/icons/256x256/laigter.png" />
+[<img alt="Laigter" align=left height="64" width="64" src="https://appimage.github.io/database/Laigter/icons/256x256/laigter.png" />]( https://azagaya.itch.io/laigter )
 
 <br>
 <br>
