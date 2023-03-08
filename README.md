@@ -42,7 +42,7 @@ I'm a 17-year-old solo game developer and pixel artist from the Philippines, mai
 
 | Hand Study | Arcane - Vi | Coffee Glass Study |
 | ------------- | ------------- | ------------- |
-| ![Hand Study](https://m.gjcdn.net/fireside-post-image/400/11014362-ll-zng2mp3v-v4.webp) | ![Vi](https://m.gjcdn.net/fireside-post-image/800/9736030-ll-uwnxkkae-v4.webp) | ![Glass Study](https://m.gjcdn.net/fireside-post-image/400/14347048-ll-hkiiyj3q-v4.webp) |
+| ![Hand Study](https://m.gjcdn.net/fireside-post-image/400/11014362-ll-zng2mp3v-v4.webp) | ![Vi](https://m.gjcdn.net/fireside-post-image/400/9736030-ll-uwnxkkae-v4.webp) | ![Glass Study](https://m.gjcdn.net/fireside-post-image/400/14347048-ll-hkiiyj3q-v4.webp) |
 
 #### Witness my other works.
 - [Itch.io **(mahyellaw)**]( https://mahyellaw.itch.io )
