@@ -25,24 +25,24 @@ I'm an 18-year-old solo game developer and pixel artist from the Philippines, ma
 <br>
 <br>
 
-### ✒️ Known Languages.
-![GDScript](https://img.shields.io/badge/GDScript-preferred-0A7300)
-![Python](https://img.shields.io/badge/Python-preferred-0A7300)
-![CSharp](https://img.shields.io/badge/CSharp-preferred-0A7300)
-![HTML-CSS-JS](https://img.shields.io/badge/HTML/CSS/JS-preferred-0A7300)
-![Java](https://img.shields.io/badge/Java-known-A45700)
-![C/C++](https://img.shields.io/badge/C/C++-known-A45700)
+### ✒️ Preferred Languages.
+![GDScript](https://img.shields.io/badge/-GDScript-0B790C?logo=appveyor&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-0B790C?logo=appveyor&style=flat-square)
+![CSharp](https://img.shields.io/badge/-HTML/CSS/JS-0B790C?logo=appveyor&style=flat-square)
+![HTML-CSS-JS](https://img.shields.io/badge/-CSharp-0B790C?logo=appveyor&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-6A790B?logo=appveyor&style=flat-square)
+![C/C++](https://img.shields.io/badge/-C/C++-6A790B?logo=appveyor&style=flat-square)
 
 ### 🎮 Featured Games.
 [<img alt="OsOs" width=220px height=175px src="https://img.itch.zone/aW1nLzkxODI3MzQucG5n/315x250%23c/ft1cp7.png" />](https://mahyellaw.itch.io/one-stop-one-shop)
 [<img alt="Coffee48" width=220px height=175px src="https://img.itch.zone/aW1nLzYyMTg5NjkucG5n/315x250%23c/%2BBdt7i.png" />](https://mahyellaw.itch.io/coffee-48)
-[<img alt="ET-Meow" width=350px height=175px src="https://m.gjcdn.net/game-thumbnail/400/638515-ll-ygfv2kyp-v4.webp" />](https://gamejolt.com/games/et_meow/638515)
+[<img alt="ET-Meow" width=350px height=175px src="https://github.com/mahyellaw/mahyellaw/assets/67622030/57c485ad-9ae3-4aa7-947e-e964d44ee499" />](https://gamejolt.com/games/et_meow/638515)
 
 ### 🖼️ Featured Pixel Artworks.
 
 | Hand Study | Arcane - Vi | Coffee Glass Study |
 | ------------- | ------------- | ------------- |
-| ![Hand Study](https://m.gjcdn.net/fireside-post-image/400/11014362-ll-zng2mp3v-v4.webp) | ![Vi](https://m.gjcdn.net/fireside-post-image/400/9736030-ll-uwnxkkae-v4.webp) | ![Glass Study](https://m.gjcdn.net/fireside-post-image/400/14347048-ll-hkiiyj3q-v4.webp) |
+| <img alt="Hand Study" width=320px height=320px src="https://pbs.twimg.com/media/FKHwwOTUcAs9vAg?format=png&name=large" /> | <img alt="Vi" width=320px height=288px src="https://pbs.twimg.com/media/FExPgg-VQAM9PtQ?format=png&name=large" /> | <img alt="Glass Study" width=320px height=320px src="https://pbs.twimg.com/media/FUolDRbagAE-3lg?format=png&name=large" /> |
 
 #### Witness my other works.
 - [Itch.io **(mahyellaw)**]( https://mahyellaw.itch.io )
