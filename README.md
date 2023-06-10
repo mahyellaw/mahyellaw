@@ -39,10 +39,9 @@ I'm an 18-year-old solo game developer and pixel artist from the Philippines, ma
 [<img alt="ET-Meow" width=350px height=175px src="https://github.com/mahyellaw/mahyellaw/assets/67622030/57c485ad-9ae3-4aa7-947e-e964d44ee499" />](https://gamejolt.com/games/et_meow/638515)
 
 ### 🖼️ Featured Pixel Artworks.
-
-| Hand Study | Arcane - Vi | Coffee Glass Study |
-| ------------- | ------------- | ------------- |
-| <img alt="Hand Study" width=320px height=320px src="https://pbs.twimg.com/media/FKHwwOTUcAs9vAg?format=png&name=large" /> | <img alt="Vi" width=320px height=288px src="https://pbs.twimg.com/media/FExPgg-VQAM9PtQ?format=png&name=large" /> | <img alt="Glass Study" width=320px height=320px src="https://pbs.twimg.com/media/FUolDRbagAE-3lg?format=png&name=large" /> |
+[<img alt="Hand Study" width=320px height=320px src="https://pbs.twimg.com/media/FKHwwOTUcAs9vAg?format=png&name=large" />](https://twitter.com/mahyellaw/status/1486734109451776003)
+[<img alt="Vi" width=320px height=288px src="https://pbs.twimg.com/media/FExPgg-VQAM9PtQ?format=png&name=large" />](https://twitter.com/mahyellaw/status/1462633843123384321)
+[<img alt="Glass Study" width=320px height=320px src="https://pbs.twimg.com/media/FUolDRbagAE-3lg?format=png&name=large" />](https://twitter.com/mahyellaw/status/1534079685466128386)
 
 #### Witness my other works.
 - [Itch.io **(mahyellaw)**]( https://mahyellaw.itch.io )
