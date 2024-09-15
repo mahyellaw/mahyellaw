@@ -1,7 +1,9 @@
 # Hey folks! 🧡
+I'm a game developer hobbyist and freelance pixel artist from the Philippines, mainly developing with [Godot Engine]( https://godotengine.org ) and creating pixel art with [Aseprite]( https://www.aseprite.org ).
+<br><br>
 <img alt="Banner" width=1920px height=540px src="https://github.com/user-attachments/assets/64b84a33-e1cc-4075-bc86-72277b18fb60" />
 
-I'm a game developer hobbyist and freelance pixel artist from the Philippines, mainly developing with the [Godot Engine]( https://godotengine.org ) and creating pixel art with [Aseprite]( https://www.aseprite.org ).
+
 
 ### ⚒️ Game Development | Art Technologies I mainly use.
 
@@ -29,9 +31,9 @@ I'm a game developer hobbyist and freelance pixel artist from the Philippines, m
 
 ### 🎮 Featured Games.
 [<img alt="CookingLelang" width=220px height=175px src="https://img.itch.zone/aW1nLzE0MTYyMTExLnBuZw==/315x250%23c/6EYTXD.png" />](https://mahyellaw.itch.io/cooking-lelang)
-[<img alt="OsOs" width=220px height=175px src="https://img.itch.zone/aW1nLzkxODI3MzQucG5n/315x250%23c/ft1cp7.png" />](https://mahyellaw.itch.io/one-stop-one-shop)
-[<img alt="Coffee48" width=220px height=175px src="https://img.itch.zone/aW1nLzYyMTg5NjkucG5n/315x250%23c/%2BBdt7i.png" />](https://mahyellaw.itch.io/coffee-48)
 [<img alt="ET-Meow" width=350px height=175px src="https://github.com/mahyellaw/mahyellaw/assets/67622030/57c485ad-9ae3-4aa7-947e-e964d44ee499" />](https://gamejolt.com/games/et_meow/638515)
+[<img alt="OsOs" width=220px height=175px src="https://img.itch.zone/aW1nLzkxODI3MzQucG5n/315x250%23c/ft1cp7.png" />](https://mahyellaw.itch.io/one-stop-one-shop)
+
 
 ### 🖼️ Featured Pixel Artworks.
 [<img alt="Hand Study" width=240px height=240px src="https://pbs.twimg.com/media/FKHwwOTUcAs9vAg?format=png&name=large" />](https://twitter.com/mahyellaw/status/1486734109451776003)
