@@ -1,5 +1,5 @@
 # Hey folks! 🧡
-<img alt="OrangeCondo" width="576" height="324" src="https://user-images.githubusercontent.com/67622030/187088645-99aada82-e0d9-4323-99f9-23bbc9374494.gif" />
+<img alt="Banner" width=1920px height=540px src="https://github.com/user-attachments/assets/64b84a33-e1cc-4075-bc86-72277b18fb60" />
 
 I'm a game developer hobbyist and freelance pixel artist from the Philippines, mainly developing with the [Godot Engine]( https://godotengine.org ) and creating pixel art with [Aseprite]( https://www.aseprite.org ).
 
