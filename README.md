@@ -1,7 +1,7 @@
 # Hey folks! 🧡
-I'm a game developer hobbyist and freelance pixel artist from the Philippines, mainly developing with [Godot Engine]( https://godotengine.org ) and creating pixel art with [Aseprite]( https://www.aseprite.org ).
+I'm a pixel artist and game developer hobbyist from the Philippines, mainly developing with [Godot Engine]( https://godotengine.org ) and creating pixel art with [Aseprite]( https://www.aseprite.org ).
 <br><br>
-<img alt="Banner" width=1920px height=540px src="https://github.com/user-attachments/assets/64b84a33-e1cc-4075-bc86-72277b18fb60" />
+<img alt="Banner" width=1920px height=240px src="https://github.com/user-attachments/assets/e0da7756-04d5-450b-a72d-3cb097b2088b" />
 
 
 
@@ -24,10 +24,6 @@ I'm a game developer hobbyist and freelance pixel artist from the Philippines, m
 ### ✒️ Preferred Languages.
 ![GDScript](https://img.shields.io/badge/-GDScript-0B790C?logo=appveyor&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-0B790C?logo=appveyor&style=flat-square)
-![CSharp](https://img.shields.io/badge/-HTML/CSS/JS-0B790C?logo=appveyor&style=flat-square)
-![HTML-CSS-JS](https://img.shields.io/badge/-CSharp-0B790C?logo=appveyor&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-6A790B?logo=appveyor&style=flat-square)
-![C/C++](https://img.shields.io/badge/-C/C++-6A790B?logo=appveyor&style=flat-square)
 
 ### 🎮 Featured Games.
 [<img alt="CookingLelang" width=220px height=175px src="https://img.itch.zone/aW1nLzE0MTYyMTExLnBuZw==/315x250%23c/6EYTXD.png" />](https://mahyellaw.itch.io/cooking-lelang)
